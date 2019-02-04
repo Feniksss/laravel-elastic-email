@@ -11,6 +11,12 @@
 		 "role": "Developer"
 	  }
    ],
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Feniksss/laravel-elastic-email.git"
+        }
+    ],
    "support": {
 	  "email": "info@zanysoft.co"
    },
